@@ -14,7 +14,7 @@ Hello everyone! In this guide we'll be seeing how to setup python on your comput
 ![Python download page]({{"/assets/images/Getting-started-with-python/python-download-page.png" | relative_url }})
 
 1. **Installing:** Once you download the installer. Open it and install according to the instructions given in the installer. Also don't forget to check the "Add python.exe to PATH" checkbox. It add python to path so that we don't have to go to it's installed folder to run it everytime.
-![install python](assets/images/Getting-started-with-python/python-install.png)
+![install python]({{"assets/images/Getting-started-with-python/python-install.png" | relative_url }})
 
 ## Compilers/Interpreters
 
@@ -34,10 +34,10 @@ Now that we have installed an interpreter, we can write and run code with it:
    print("Hello World")
    ```
 
-   ![Write hello world program in notepad](/assets/images/Getting-started-with-python/notepad-write.png)
+   ![Write hello world program in notepad]({"/assets/images/Getting-started-with-python/notepad-write.png"| relative_url })
 
 2. Save the file as hello.py on your Desktop(You can use any one word name for now).
-    ![saving as hello.py](/assets/images/Getting-started-with-python/notepad-save.png)
+    ![saving as hello.py]({"/assets/images/Getting-started-with-python/notepad-save.png"| relative_url })
 
 3. Open Command Prompt and type:
 
@@ -47,7 +47,7 @@ Now that we have installed an interpreter, we can write and run code with it:
    ```
 
 4. Output
-   ![Hello World Output](/assets/images/Getting-started-with-python/py-output.png)
+   ![Hello World Output]({"/assets/images/Getting-started-with-python/py-output.png"| relative_url })
 
 ## Conclusion
 
