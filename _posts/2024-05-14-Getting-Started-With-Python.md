@@ -37,7 +37,7 @@ Now that we have installed an interpreter, we can write and run code with it:
    ![Write hello world program in notepad]({{"/assets/images/Getting-started-with-python/notepad-write.png"| relative_url }})
 
 2. Save the file as hello.py on your Desktop(You can use any one word name for now).
-    ![saving as hello.py]({"/assets/images/Getting-started-with-python/notepad-save.png"| relative_url })
+    ![saving as hello.py]({{"/assets/images/Getting-started-with-python/notepad-save.png"| relative_url }})
 
 3. Open Command Prompt and type:
 
