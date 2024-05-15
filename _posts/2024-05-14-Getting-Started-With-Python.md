@@ -11,7 +11,7 @@ Hello everyone! In this guide we'll be seeing how to setup python on your comput
 ## Downloading and Installing the Python Interpreter
 
 1. **Downloading:** Go to the [www.python.org/downloads](https://www.python.org/downloads) and download the latest version of python.
-![Python download page](assets/images/Getting-started-with-python/python-download-page.png)
+![Python download page]({{site.url}}assets/images/Getting-started-with-python/python-download-page.png)
 
 1. **Installing:** Once you download the installer. Open it and install according to the instructions given in the installer. Also don't forget to check the "Add python.exe to PATH" checkbox. It add python to path so that we don't have to go to it's installed folder to run it everytime.
 ![install python](assets/images/Getting-started-with-python/python-install.png)
