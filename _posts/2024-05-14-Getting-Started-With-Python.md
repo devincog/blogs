@@ -51,4 +51,4 @@ Now that we have installed an interpreter, we can write and run code with it:
 
 ## Conclusion
 
-Congratulations for running your first python program. In the next blog, we'll see what code editors are and how we use them. Thanks for reading
+Congratulations for running your first python program. In the next blog, we'll see what code editors are and how we use them. Thanks for reading.

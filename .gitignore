@@ -4,3 +4,4 @@ _site
 .jekyll-metadata
 vendor
 imagelinkgen.py
+new_post_draft.py
