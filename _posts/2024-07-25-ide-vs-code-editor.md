@@ -2,13 +2,14 @@
 layout: post
 title:  "IDE and Code Editor"
 categories: Programming
+tag: programming
 ---
 
 
 # IDE and Code Editor
 
 ## Introduction
-In the [previous post](https://devincog.github.io/blogs/programming/2024/05/14/Getting-Started-With-Python.html) we installed python and wrote our first Python program using notepad. Now notepad is a good editor if you want to quickly edit something or write a small and simple program but for more complex programs we use an IDE or a code editor as it gives us more features to make things easier.
+In the [previous post](https://devincog.github.io/blogs/programming/2024/05/14/Getting-Started-With-Python.html) we installed python and wrote our first Python program using Windows Notepad. Now notepad is a good editor if you want to quickly edit something or write a small and simple program but for more complex programs we use an IDE or a code editor as it gives us more features to make things easier.
 
 
 ## Code Editors
@@ -64,7 +65,7 @@ There might be a confusion on which one to use so here is a comparison table for
 | **Purpose**                  | Editing code                                                                                        | Full-scale development                                                                                                                                                |
 | **Key Features**             | Syntax highlighting, Autocompletion, Basic error detection, Code formatting, Extensions and plugins | Advanced code editor, Compiler/Interpreter, Debugger, Build automation, Version control, Project management, Code navigation, Testing, Profiling, Integrated terminal |
 | **Performance**              | Fast and responsive                                                                                 | More resource-intensive                                                                                                                                               |
-| **Customization**            | Highly customizable                                                                                 | Somewhat Customizable but extensive out-of-the-box features                                                                                                           |
+| **Customization**            | Highly customizable                                                                                 | Somewhat Customizable but focused on extensive out-of-the-box features                                                                                                           |
 | **Examples**                 | Visual Studio Code, Sublime Text, Atom, Notepad++                                                   | Eclipse, IntelliJ IDEA, PyCharm, Android Studio, Xcode                                                                                                                |
 | **Complexity**               | Simple, lower learning curve                                                                        | More complex, steeper learning curve                                                                                                                                  |
 | **Ideal Project Size**       | Small to medium projects, quick edits                                                               | Large-scale projects                                                                                                                                                  |
