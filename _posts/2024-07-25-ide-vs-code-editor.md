@@ -5,9 +5,6 @@ categories: Programming
 tag: programming
 ---
 
-
-# IDE and Code Editor
-
 ## Introduction
 In the [previous post](https://devincog.github.io/blogs/programming/2024/05/14/Getting-Started-With-Python.html) we installed python and wrote our first Python program using Windows Notepad. Now notepad is a good editor if you want to quickly edit something or write a small and simple program but for more complex programs we use an IDE or a code editor as it gives us more features to make things easier.
 
