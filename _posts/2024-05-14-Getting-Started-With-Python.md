@@ -2,6 +2,7 @@
 layout: post
 title:  "Getting Started With Python"
 categories: Programming
+tag: programming
 ---
 
 ## Introduction
