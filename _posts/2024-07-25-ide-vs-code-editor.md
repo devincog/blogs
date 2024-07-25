@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "IDE and Code Editor"
+categories: Programming
+---
+
+
 # IDE and Code Editor
 
 ## Introduction
