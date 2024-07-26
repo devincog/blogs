@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IDE and Code Editor"
-image: /assets/images/ide-vs-code-editor/title-image.webp
+image: assets/images/ide-vs-code-editor/title-image.webp
 categories: Programming
 tag: programming
 ---
