@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IDE and Code Editor"
-image: assets/images/ide-vs-code-editor/title-image.webp
+image: https://miro.medium.com/v2/resize:fit:828/format:webp/1*hCOOFW4sQi1jz7-2u1sJGQ.png
 categories: Programming
 tag: programming
 ---
