@@ -35,18 +35,18 @@ Remember our [first python code](https://devincog.github.io/blogs/programming/20
 
 - **Step 1**: Go to the [replit website](https://replit.com/) and sign up for an account.
   
-    ![replit home page]({{"assets\images\replit-tutorial\replit-home-page.png" | relative_url }})
+    ![replit home page]({{"assets/images/replit-tutorial/replit-home-page.png" | relative_url }})
 
-    ![replit signup page]({{"assets\images\replit-tutorial\replit-signup-page.png" | relative_url }})
+    ![replit signup page]({{"assets/images/replit-tutorial/replit-signup-page.png" | relative_url }})
 
 - **Step 2**: Create a repl. Select python from the list of templates and Name your file. Then click "Create Repl"
     
-    ![replit create file]({{"assets\images\replit-tutorial\replit-create-file.png" | relative_url }})
-    ![replit create with name]({{"assets\images\replit-tutorial\replit-createfile-with-name.png" | relative_url }})
+    ![replit create file]({{"assets/images/replit-tutorial/replit-create-file.png" | relative_url }})
+    ![replit create with name]({{"assets/images/replit-tutorial/replit-createfile-with-name.png" | relative_url }})
 
 - **Step 3**: Now we can write our program we wrote earlier(print("Hello world")) and click run.
     
-    ![hello world in python in replit]({{"assets\images\replit-tutorial\hello-world-replit.png" | relative_url }})
+    ![hello world in python in replit]({{"assets/images/replit-tutorial/hello-world-replit.png" | relative_url }})
 
 
 ## Conclusion
