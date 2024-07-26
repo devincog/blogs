@@ -12,7 +12,7 @@ In the [previous post](https://devincog.github.io/blogs/programming/2024/05/14/G
 
 ## Code Editors
 
-Code editor is a specialized text editor designed specifically for writing and editing code. It provides features that simplify the process of coding, making it easier and more efficient for programmers and developers. VS code, Sublime Text, Atom, are some examples of Code edittors. There are also web based
+Code editor is a specialized text editor designed specifically for writing and editing code. It provides features that simplify the process of coding, making it easier and more efficient for programmers and developers. VS code, Sublime Text, Atom, are some examples of Code edittors.
 
 ### Key Features
 
