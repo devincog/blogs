@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "IDE and Code Editor"
+image: /assets/images/ide-vs-code-editor/title-image.webp
 categories: Programming
 tag: programming
 ---
@@ -11,7 +12,7 @@ In the [previous post](https://devincog.github.io/blogs/programming/2024/05/14/G
 
 ## Code Editors
 
-Code editor is a specialized text editor designed specifically for writing and editing code. It provides features that simplify the process of coding, making it easier and more efficient for programmers and developers. Here are some key features of a code editor:
+Code editor is a specialized text editor designed specifically for writing and editing code. It provides features that simplify the process of coding, making it easier and more efficient for programmers and developers. VS code, Sublime Text, Atom, are some examples of Code edittors. There are also web based
 
 ### Key Features
 
@@ -69,3 +70,4 @@ There might be a confusion on which one to use so here is a comparison table for
 | **Speed and Resource Usage** | Faster, less resource-intensive                                                                     | Slower, more resource-intensive                                                                                                                                       |
 | **Integration**              | Extensions-based, less seamless                                                                     | Seamless integration of tools                                                                                                                                         |
 | **Flexibility**              | Greater flexibility through extensions                                                              | Comprehensive features, less flexibility                                                                                                                              |
+
